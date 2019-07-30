@@ -1,0 +1,14 @@
+D:\ktane\CC-KtaneModα\CryptClientApp\bin\x64\release\netcoreapp2.1\win-x64\hostpolicy.dll
+D:\ktane\CC-KtaneModα\CryptClientApp\bin\x64\release\netcoreapp2.1\win-x64\hostfxr.dll
+D:\ktane\CC-KtaneModα\CryptClientApp\bin\x64\release\netcoreapp2.1\win-x64\CryptClientApp.exe
+D:\ktane\CC-KtaneModα\CryptClientApp\bin\x64\release\netcoreapp2.1\win-x64\CryptClientApp.deps.json
+D:\ktane\CC-KtaneModα\CryptClientApp\bin\x64\release\netcoreapp2.1\win-x64\CryptClientApp.runtimeconfig.json
+D:\ktane\CC-KtaneModα\CryptClientApp\bin\x64\release\netcoreapp2.1\win-x64\CryptClientApp.runtimeconfig.dev.json
+D:\ktane\CC-KtaneModα\CryptClientApp\bin\x64\release\netcoreapp2.1\win-x64\CryptClientApp.dll
+D:\ktane\CC-KtaneModα\CryptClientApp\bin\x64\release\netcoreapp2.1\win-x64\CryptClientApp.pdb
+D:\ktane\CC-KtaneModα\CryptClientApp\obj\x64\release\netcoreapp2.1\win-x64\CryptClientApp.csprojAssemblyReference.cache
+D:\ktane\CC-KtaneModα\CryptClientApp\obj\x64\release\netcoreapp2.1\win-x64\CryptClientApp.csproj.CoreCompileInputs.cache
+D:\ktane\CC-KtaneModα\CryptClientApp\obj\x64\release\netcoreapp2.1\win-x64\CryptClientApp.AssemblyInfoInputs.cache
+D:\ktane\CC-KtaneModα\CryptClientApp\obj\x64\release\netcoreapp2.1\win-x64\CryptClientApp.AssemblyInfo.cs
+D:\ktane\CC-KtaneModα\CryptClientApp\obj\x64\release\netcoreapp2.1\win-x64\CryptClientApp.dll
+D:\ktane\CC-KtaneModα\CryptClientApp\obj\x64\release\netcoreapp2.1\win-x64\CryptClientApp.pdb

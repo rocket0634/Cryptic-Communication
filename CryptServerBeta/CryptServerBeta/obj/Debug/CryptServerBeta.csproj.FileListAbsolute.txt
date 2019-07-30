@@ -1,0 +1,18 @@
+D:\ktane\Cryptic Communication\CryptServerBeta\CryptServerBeta\bin\Debug\CryptServerBeta.exe.config
+D:\ktane\Cryptic Communication\CryptServerBeta\CryptServerBeta\bin\Debug\CryptServerBeta.exe
+D:\ktane\Cryptic Communication\CryptServerBeta\CryptServerBeta\bin\Debug\CryptServerBeta.pdb
+D:\ktane\Cryptic Communication\CryptServerBeta\CryptServerBeta\bin\Debug\Newtonsoft.Json.dll
+D:\ktane\Cryptic Communication\CryptServerBeta\CryptServerBeta\obj\Debug\CryptServerBeta.csproj.CoreCompileInputs.cache
+D:\ktane\Cryptic Communication\CryptServerBeta\CryptServerBeta\obj\Debug\CryptServerBeta.csproj.CopyComplete
+D:\ktane\Cryptic Communication\CryptServerBeta\CryptServerBeta\obj\Debug\CryptServerBeta.exe
+D:\ktane\Cryptic Communication\CryptServerBeta\CryptServerBeta\obj\Debug\CryptServerBeta.pdb
+D:\ktane\Cryptic Communication\CryptServerBeta\CryptServerBeta\obj\Debug\CryptServerBeta.csprojAssemblyReference.cache
+D:\ktane\CC-KtaneModα\CryptServerBeta\CryptServerBeta\bin\Debug\CryptServerBeta.exe.config
+D:\ktane\CC-KtaneModα\CryptServerBeta\CryptServerBeta\bin\Debug\CryptServerBeta.exe
+D:\ktane\CC-KtaneModα\CryptServerBeta\CryptServerBeta\bin\Debug\CryptServerBeta.pdb
+D:\ktane\CC-KtaneModα\CryptServerBeta\CryptServerBeta\bin\Debug\Newtonsoft.Json.dll
+D:\ktane\CC-KtaneModα\CryptServerBeta\CryptServerBeta\obj\Debug\CryptServerBeta.csprojAssemblyReference.cache
+D:\ktane\CC-KtaneModα\CryptServerBeta\CryptServerBeta\obj\Debug\CryptServerBeta.csproj.CoreCompileInputs.cache
+D:\ktane\CC-KtaneModα\CryptServerBeta\CryptServerBeta\obj\Debug\CryptServerBeta.csproj.CopyComplete
+D:\ktane\CC-KtaneModα\CryptServerBeta\CryptServerBeta\obj\Debug\CryptServerBeta.exe
+D:\ktane\CC-KtaneModα\CryptServerBeta\CryptServerBeta\obj\Debug\CryptServerBeta.pdb

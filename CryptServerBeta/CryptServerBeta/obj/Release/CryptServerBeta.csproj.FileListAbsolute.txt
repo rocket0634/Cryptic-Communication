@@ -1,0 +1,9 @@
+D:\ktane\Cryptic Communication\CryptServerBeta\CryptServerBeta\bin\Release\CryptServerBeta.exe.config
+D:\ktane\Cryptic Communication\CryptServerBeta\CryptServerBeta\bin\Release\CryptServerBeta.exe
+D:\ktane\Cryptic Communication\CryptServerBeta\CryptServerBeta\bin\Release\CryptServerBeta.pdb
+D:\ktane\Cryptic Communication\CryptServerBeta\CryptServerBeta\obj\Release\CryptServerBeta.csproj.CoreCompileInputs.cache
+D:\ktane\Cryptic Communication\CryptServerBeta\CryptServerBeta\obj\Release\CryptServerBeta.exe
+D:\ktane\Cryptic Communication\CryptServerBeta\CryptServerBeta\obj\Release\CryptServerBeta.pdb
+D:\ktane\Cryptic Communication\CryptServerBeta\CryptServerBeta\bin\Release\Newtonsoft.Json.dll
+D:\ktane\Cryptic Communication\CryptServerBeta\CryptServerBeta\obj\Release\CryptServerBeta.csprojAssemblyReference.cache
+D:\ktane\Cryptic Communication\CryptServerBeta\CryptServerBeta\obj\Release\CryptServerBeta.csproj.CopyComplete
